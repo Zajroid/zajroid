@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zajroid&show_icons=true&locale=en&layout=compact&theme=radical" alt="zajroid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zajroid&show_icons=true&locale=en&theme=radical" alt="zajroid" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zajroid&show_icons=true&locale=en&theme=radical" alt="zajroid" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zajroid&&theme=radical" alt="zajroid" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zajroid&&theme=radical" alt="zajroid" /></p>-->
