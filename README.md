@@ -7,8 +7,11 @@
 
 - 🌱 I’m currently learning **nest and next**
 
+-->
+
 - 📝 I regularly write articles on [klaramando.info](klaramando.info)
 
+<!--
 - 💬 Ask me about **express, nest, react**
 
 - 📄 Know about my experiences [web application on express.js and nest.js](web application on express.js and nest.js)
