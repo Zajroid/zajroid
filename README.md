@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [klaramando.ru](klaramando.ru)
 
-- 💬 Ask me about **nest, expo**
-
 - 📫 How to reach me **zajroid@gmail.com**
 
 - 📨 Connect me with telegram: @zajroid
