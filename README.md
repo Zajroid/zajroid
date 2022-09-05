@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [klaramando.ru](klaramando.ru)
 
-- 📫 How to reach me **zajroid@gmail.com**
-
 - 📨 Connect me with telegram: @zajroid
 
 <h3 align="left">Connect with me:</h3>
