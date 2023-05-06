@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 August 2022 - To: 03 May 2023
+From: 02 August 2022 - To: 04 May 2023
 
 Total Time: 166 hrs 51 mins
 
@@ -41,7 +41,6 @@ JavaScript                 30 hrs 53 mins  >>>>>--------------------   18.52 %
 Go                         20 hrs 5 mins   >>>----------------------   12.04 %
 Markdown                   18 hrs 9 mins   >>>----------------------   10.89 %
 HTML                       11 hrs 32 mins  >>-----------------------   06.91 %
-TypeScript                 10 hrs 47 mins  >>-----------------------   06.47 %
 ```
 
 <!--END_SECTION:waka-->
